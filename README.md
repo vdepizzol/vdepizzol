@@ -1,6 +1,6 @@
 ### Hey. I’m Vinicius Depizzol. I’m a designer living in San Francisco. I like learning about languages, history, and art. For the past decade, I’ve been untangling the intersection of code, product, and design.
 
-Currently, I’m a designer at [@github](https://github.com/github). There I’m helping to scale its design system and improve workflows for developers around the globe.
+Currently, I’m a designer at [@github](https://github.com/github). Here I’m helping to scale its design system and improve workflows for developers around the globe.
 
 In the past I’ve designed thoughtful web apps for modern developers at [@microsoft](https://github.com/microsoft) in the Cloud & AI division. Before that I was at [@xamarin](https://github.com/xamarin), where I've been collaborating with immensely talented people ever since.
 
