@@ -21,7 +21,7 @@ Davinci Resolve, Adobe Lightroom.
 
 Pen & paper.
 
-### Other things I live
+### Other things I like
 Lo-fi hip hop beats. Italian food. Maps. Yoshi’s island.
 
 ### Pronoum
