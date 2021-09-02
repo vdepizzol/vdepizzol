@@ -1,28 +1,29 @@
-### Hey. I’m Vinicius Depizzol. I’m a designer living in San Francisco. I like learning about languages, history, and art. For the past decade, I’ve been untangling the intersection of code, product, and design.
+**Hoi! I’m Vinicius. I believe that empathy and curiosity about why we move through this world the way we do are key to solving problems.**
 
-Currently, I’m a designer at [@github](https://github.com/github). Here I’m helping to scale its design system and improve workflows for developers around the globe.
+I like learning about history, languages, art, and so many other things. For the past decade I have embraced the exciting intersection of code, product, and design.
 
-In the past I’ve designed thoughtful web apps for modern developers at [@microsoft](https://github.com/microsoft) in the Cloud & AI division. Before that I was at [@xamarin](https://github.com/xamarin), where I've been collaborating with immensely talented people ever since.
+Currently, I’m designing this [very website](https://github.com). Here I’m helping to scale its design system and improve workflows for developers around the globe.
 
-I believe that empathy and curiosity about why we move through this world the way we do are key to solving problems.
+[In the past](https://adxlv.co/work/) I designed [thoughtful web services](https://adxlv.co/work/azure-devops/) for Microsoft in the Cloud & AI division. Before that, I [joined Xamarin](https://adxlv.co/work/xamarin/) as their first designer, and ever since I’ve been collaborating with immensely talented people.
 
+I grew up in the Brazilian southeast coast, and been calling San Francisco home for almost a decade.
 
 ### Areas of interest
-Product design, frontend implementation and prototyping, information architecture, software development.
-
-Human history, anthropology, linguistics, urbanism, public transit, social justice.
-
-Photography, videography, sketching.
+- Product design, frontend implementation and prototyping, information architecture, software development.
+- Human history, anthropology, linguistics, urbanism, public transit, social justice.
+- Photography, videography, drawing, sketching.
 
 ### Tools
-Figma, Visual Studio Code.
-
-Davinci Resolve, Adobe Lightroom.
-
-Pen & paper.
+- Figma, Visual Studio Code.
+- Davinci Resolve, Adobe Lightroom.
+- Inkscape, Blender.
+- Pen & paper.
 
 ### Other things I like
-Lo-fi hip hop beats. Italian food. Maps. Yoshi’s island.
+Lo-fi hip hop beats. Italian food. Maps. Yoshi’s island. Mario Kart.
 
 ### Pronoum
 He/him.
+
+### Languages
+English, Portuguese, Italian, Spanish.
