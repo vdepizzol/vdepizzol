@@ -1,12 +1,14 @@
-**Hoi! I’m Vinicius. I believe that empathy and curiosity about why we move through this world the way we do are key to solving problems.**
+**Hoi! I’m Vinicius. I’m committed to exploring this world with empathy and curiosity. I try to understand current systems in order to leave things better than I found them.**
 
-I like learning about history, languages, art, and so many other things. For the past decade I have embraced the exciting intersection of code, product, and design.
+I like learning about history, languages, art, and so many other things. For the past decade and a half, I have embraced the exciting intersection of open source, software development, and human-computer interaction.
 
-Currently, I’m designing this [very website](https://github.com). Here I’m helping to scale its design system and improve workflows for developers around the globe.
+Currently, I’m a designer [at this very website](https://github.com). Here I’m helping to scale its design system, improve workflows, and support a global community.
 
-[In the past](https://adxlv.co/work/) I designed [thoughtful web services](https://adxlv.co/work/azure-devops/) for Microsoft in the Cloud & AI division. Before that, I [joined Xamarin](https://adxlv.co/work/xamarin/) as their first designer, and ever since I’ve been collaborating with immensely talented people.
+In the past, I designed systems for developer tools at Microsoft; I created web apps, brand, and websites for Xamarin; and I contributed to the GNOME project by designing websites, assets, and icons.
 
-I grew up in the Brazilian southeast coast, and been calling San Francisco home for almost a decade.
+And ever since my first experience with open source, I have been collaborating and learning from immensely talented people.
+
+I was born when the planet had 354 [ppm](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide) of CO2 in the atmosphere. I grew up in the Brazilian southeast coast, and have been calling San Francisco home since 2012.
 
 ### Areas of interest
 - Product design, frontend implementation and prototyping, information architecture, software development.
@@ -14,13 +16,13 @@ I grew up in the Brazilian southeast coast, and been calling San Francisco home 
 - Photography, videography, drawing, sketching.
 
 ### Tools
-- Figma, Visual Studio Code.
+- Figma, Inkscape, Blender.
+- Visual Studio Code, GitHub, Terminal.
 - Davinci Resolve, Adobe Lightroom.
-- Inkscape, Blender.
-- Pen & paper.
+- Pen, pencil, & paper.
 
 ### Other things I like
-Lo-fi hip hop beats. Italian food. Maps. Yoshi’s island. Mario Kart.
+Lo-fi hip hop beats. Yerba mate. Italian food. Maps. Yoshi’s island. Mario Kart.
 
 ### Pronoum
 He/him.
