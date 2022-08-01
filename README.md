@@ -8,7 +8,7 @@ In the past, I designed systems for developer tools at Microsoft; I created web 
 
 And ever since my first experience with open source, I have been collaborating and learning from immensely talented people.
 
-I was born when the planet had 354 [ppm](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide) of CO2 in the atmosphere. I grew up in the Brazilian southeast coast, and have been calling San Francisco home since 2012.
+I was born when the planet had 354 [ppm](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide) of CO<sub>2</sub> in the atmosphere. I grew up in the Brazilian southeast coast, and have been calling San Francisco home since 2012.
 
 ### Areas of interest
 - User experience, computer-human interfaces, information architecture, product design, web standards, prototyping, software development.
