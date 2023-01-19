@@ -9,7 +9,7 @@ Born when the planet had 354 [ppm](https://www.climate.gov/news-features/underst
 Current tools:
 - Visual Studio Code, Terminal, Git, Linux
 - CSS, HTML, Javascript
-- Figma, Inkscape, Blender
+- Figma, Inkscape, Blender, Gimp
 - Godot, Aseprite, Krita, PureRef
 - Adobe Lightroom, RawTherapee, Davinci Resolve
 - Pen, pencil, paper
