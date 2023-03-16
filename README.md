@@ -7,7 +7,7 @@ Before: Designer at GitHub, Microsoft, Xamarin.
 Born when the planet had 354 [ppm](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide) of CO<sub>2</sub> in the atmosphere.
 
 Current tools:
-- Visual Studio Code, Terminal, Git, Linux
+- VSCodium, Terminal, Git, Linux
 - CSS, HTML, Javascript
 - Figma, Inkscape, Blender, Gimp
 - Godot, Aseprite, Krita, PureRef
